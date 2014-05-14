@@ -106,6 +106,7 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
 		height: 75px;
 		background-image: url(../images/contact.png);
 		background-repeat: no-repeat;
+		margin-bottom : 100px;
 	}
 }
 
