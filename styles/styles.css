@@ -7,3 +7,33 @@ body {
 	width: 900;
 	float: right;
 }
+@media (max-width: 1000px) {
+	.logo {
+		margin-right : 0px;
+		width:100%;
+	}
+	.post1 {
+		right : 0px;
+	}
+	.post2 {
+		left:0px;
+	}
+	.client1 {
+		width : 100%;
+	}
+	.client1 img {
+		width : 100%;
+		margin-right : 0px;
+		height : 100%;
+		margin-top : 0px;
+	}
+	.post3 {
+		left : 0px;
+	}
+	.post4 {
+		right : 0px;
+	}
+	.client2 {
+		width : 100%;
+	}
+}
