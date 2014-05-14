@@ -10,6 +10,7 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
 		height: 104px;
 		float: right;
 		margin-top: 56px;
+		position: absolute;
 	}
 	.logo img {
 		width : 100%;
@@ -20,6 +21,7 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
 		top: 217px;
 		right: 0px;
 		z-index: 9;
+		position: absolute;
 	}
 	.post2 {
 		width: 300px;
@@ -27,6 +29,7 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
 		top: 456px;
 		left: 0px;
 		z-index: 9;
+		position: absolute;
 	}
 	.client1 {
 		position: absolute;
@@ -42,6 +45,7 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
 		height: 100%;
 	}
 	.post3 {
+		position: absolute;
 		width: 370px;
 		height: 470px;
 		top: 1138px;
@@ -49,6 +53,7 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
 		z-index: 9;
 	}
 	.post4 {
+		position: absolute;
 		width: 342px;
 		height: 453px;
 		top: 1496px;
